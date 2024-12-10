@@ -1,0 +1,17 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use "gcloud config set project [PROJECT_ID]"
+krisardani10@cloudshell:~$ nano latian4.sh
+krisardani10@cloudshell:~$ cat latihan4.sh
+cat: latihan4.sh: No such file or directory
+krisardani10@cloudshell:"$ cat latian4.sh
+#!/bin/bash
+echo 'script untuk menerima input, penjumlahan dan perkalian"
+echo "13:"
+read x
+echo "7:"
+read y
+jmlh expr tx ty
+kali expr tx ty
+echo 'hasil penjumlahan tx ty jmlh"
+echo 'hasil perkalian tx ty kali
+krisardani10@cloudshell:~$
