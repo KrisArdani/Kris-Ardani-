@@ -1,0 +1,12 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use "gcloud config set project [PROJECT_ID]"
+krisardani10@cloudshell:~$ pico latihan2.sh
+krisardani10@cloudshell:~$ cat latihan2.sh
+#!/bin/bash
+Nama Kris Ardani"
+Nim=2402059
+saya_login_sebagai.siapa 'Kris
+echo "Kris Ardani:
+echo 2402059
+echo "Kris:"
+krisardani10@cloudshell:"$
